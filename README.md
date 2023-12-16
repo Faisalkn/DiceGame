@@ -8,11 +8,11 @@
 3. If the player runs out of money, they can no longer continue playing. 
 
 # Game Shortcuts
-START         CTRL + S
-EXIT          CTRL + E
-RESET         CTRL + R
-SHORTCUTS     CTRL + N
-RULES         CTRL + F
-ROLL BUTTON   CTRL + ENTER
-PLAY AGAIN    CTRL + SPACE
-ABOUT         CTRL + A
+- START         CTRL + S
+- EXIT          CTRL + E
+- RESET         CTRL + R
+- SHORTCUTS     CTRL + N
+- RULES         CTRL + F
+- ROLL BUTTON   CTRL + ENTER
+- PLAY AGAIN    CTRL + SPACE
+- ABOUT         CTRL + A
